@@ -1,4 +1,4 @@
-# My First Project
+## Hello Microverse
 I added linters to css and html and also created a header and a style for html
 ## Built With
 
@@ -11,11 +11,9 @@ I added linters to css and html and also created a header and a style for html
 
 To get a local copy up and running follow these simple example steps.
 ### Prerequisites
-- Install
-- Run
-- Set up
+- Vscode Linters browser
 
-# Authors
+## Authors
 👤 Author1
 
 GitHub: [@Posh101](git@github.com:posh101/My-Hello-Project.git)
@@ -27,7 +25,8 @@ LinkedIn: [Linkedin](https://www.linkedin.com/in/paul-orife-878856239/)
 ### Setup
 copy the url to your local https://git@github.com:posh101/My-Hello-Project.git
 
- 🤝 Contributing
+ ## 🤝 Contributing
+ 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the issues page.
@@ -40,7 +39,7 @@ Give a ⭐️ if you like this project!
 - Inspiration
 - etc
 
-📝 License
+ ## 📝 License
 
 This project is MIT licensed.
 
