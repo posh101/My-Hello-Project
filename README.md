@@ -8,7 +8,7 @@
 - I created a repository, i added an HTML and CSS file. I
 - I created an html header and added a style to it.
 
-# Author
+👤# Author
 - GitHub:@Posh101
 - Twitter:@Poshpaulo1
 - Linkedin: Paul Orife
