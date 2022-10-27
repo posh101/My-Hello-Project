@@ -1,28 +1,47 @@
-# Adding a new header and style to my project
+# My First Project
+I added linters to css and html and also created a header and a style for html
+## Built With
 
-# Built with
-- HTML
-- CSS
-- GitHub
-# Getting Started
-- I created a repository, i added an HTML and CSS file. I
-- I created an html header and added a style to it.
+- html 
+- css
+- visual studio.NET
+- github
 
-👤# Author
-- GitHub:@Posh101
-- Twitter:@Poshpaulo1
-- Linkedin: Paul Orife
+## Getting Started
 
-# Show Support
-- Give a ⭐️ if you like this project
+To get a local copy up and running follow these simple example steps.
+### Prerequisites
+- Install
+- Run
+- Set up
 
-# Contributions, issues, and feature requests are welcome!
+# Authors
+👤 Author1
 
-Feel free to check the [issues page](https://github.com/posh101/My-Hello-Project/issues)
+GitHub: [@Posh101](git@github.com:posh101/My-Hello-Project.git)
 
-# Acknowledgments
+Twitter: [@poshpaulo1](https://twitter.com/Poshpaulo1)
+
+LinkedIn: [Linkedin](https://www.linkedin.com/in/paul-orife-878856239/)
+
+### Setup
+copy the url to your local https://git@github.com:posh101/My-Hello-Project.git
+
+ 🤝 Contributing
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the issues page.
+
+## Show your support
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
 
-📝# License
+📝 License
+
+This project is MIT licensed.
+
+NOTE: we recommend using the MIT license - you can set it up quickly by using templates available on GitHub. You can also use any other license if you wish.
